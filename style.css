@@ -1,0 +1,72 @@
+* {
+	text-align: center;
+}
+
+body {
+	background-color: #101014;
+	font-family: 'League Spartan';
+	font-size: 24px;
+	color: lightgray;
+}
+
+h1 {
+	font-family: 'Arial';
+	margin-top: 160px;
+	margin-bottom: 80px;
+	font-size: 80px;
+	color: #FFFFFF;
+}
+
+h2 {
+	font-family: 'Arial';
+	font-size: 40px;
+	margin-bottom: 40px;
+	color: #FFFFFF;
+}
+
+h3 {
+	font-family: 'Arial';
+	font-size: 20px;
+	color: #FFFFFF;
+}
+
+summary {
+	margin-bottom: 20px;
+}
+
+hr {
+	visibility: hidden;
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+
+details {
+	margin-bottom: 40px;
+}
+
+nav {
+	background-color: black;
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: space-evenly;
+}
+
+a {
+	font-family: 'Arial';
+	font-size: 30px;
+	color: #EF8354;
+}
+
+a:visited {
+	color: #EF8354;
+}
+
+a:hover {
+	color: #EF8354;
+}
+
+.esa {
+	border-top: 1px solid #EF8354;
+	padding: 30px;
+	margin-bottom: 80px;
+}
